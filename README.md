@@ -19,7 +19,7 @@ This project demonstrates a simple ERC721 (NFT) smart contract using [Foundry](h
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/foundry-nft-example.git
+   git clone https://github.com/renanzitoo/foundry-nft-example.git
    cd foundry-nft-example
    ```
 
